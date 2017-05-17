@@ -12,16 +12,6 @@ import { AngularFireModule } from 'angularfire2';
 
 // AF2 Settings
 
-/*
-export const firebaseConfig = {
-  apiKey: "AIzaSyBqnFr0uKdIxQrB19P61glmUNMhFRRFa4Q",
-  authDomain: "angularfire2-list-exampl-41bff.firebaseapp.com",
-  databaseURL: "https://angularfire2-list-exampl-41bff.firebaseio.com",
-  storageBucket: "angularfire2-list-exampl-41bff.appspot.com",
-  messagingSenderId: "43426171736"
-};
-*/
-
 export const firebaseConfig = {
   apiKey: "AIzaSyBY5NYD77KZmOYdgrKIOZhhlxa53x9CYo4",
   authDomain: "todolist-9e379.firebaseapp.com",
