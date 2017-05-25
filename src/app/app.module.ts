@@ -13,11 +13,11 @@ import { AngularFireModule } from 'angularfire2';
 // AF2 Settings
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyBY5NYD77KZmOYdgrKIOZhhlxa53x9CYo4",
-  authDomain: "todolist-9e379.firebaseapp.com",
-  databaseURL: "https://todolist-9e379.firebaseio.com",
-  storageBucket: "todolist-9e379.appspot.com",
-  messagingSenderId: "109038071770"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 
 @NgModule({
